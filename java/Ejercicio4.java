@@ -11,15 +11,15 @@ public class Ejercicio4{
         
         switch (categoria) {
             case 'a':
-                palabra = "perro";
+                palabra = "hijos";
                 break;
                 
             case 'b':
-                palabra = "gato";
+                palabra = "padres";
                 break;
                 
             case 'c':
-                palabra = "animales";
+                palabra = "abuelos";
                 break;
                 
             default:
